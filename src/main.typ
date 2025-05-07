@@ -288,7 +288,7 @@ We can verify that some basic properties hold:
 #figure(
   caption: [Friendly rivalry among prominent cryptographers are occasionally settled through unencrypted communication]
 )[
-  #image("assets/img/cryptographers.jpg", height: 85%)
+  #image("assets/img/cryptographers.jpg", width: 90%)
 ]
 
 == Elliptic Curves
